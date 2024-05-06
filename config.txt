@@ -1,0 +1,4 @@
+username=jaita
+password=jaita121
+dburl=localhost:3306
+dbname=settimana2
